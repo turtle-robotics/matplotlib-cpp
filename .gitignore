@@ -36,3 +36,6 @@
 
 # vim temp files
 *.sw*
+
+# for testing
+build/
